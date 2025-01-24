@@ -81,10 +81,7 @@ const Footer = () => {
       href="https://github.com/alphinV/valentine"
       target="__blank"
     >
-      Made with{" "}
-      <span role="img" aria-label="heart">
-        ❤️
-      </span>
+      Github
     </a>
   );
 };
